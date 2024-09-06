@@ -49,7 +49,7 @@ Follow these steps to implement and evaluate the KNN model on the Iris dataset.
 
 # Findings
 
-Our analysis of the KNN model on the Iris dataset yielded the following results:
+My analysis of the KNN model on the Iris dataset yielded the following results:
 
 ## Data Preprocessing Results
 
