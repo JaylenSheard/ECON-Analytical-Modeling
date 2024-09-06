@@ -1,6 +1,6 @@
 # ECON 6485: Analytical Modeling Assignments
 
-This repository contains a series of assignments completed as part of my ECON 6485: Analytical Modeling course for the Fall 2024 semester. Each assignment showcases different analytical modeling techniques and approaches applied to real-world economic and data science problems.
+This repository contains a series of assignments completed as part of my Analytical Modeling course for the Fall 2024 semester. Each assignment showcases different analytical modeling techniques and approaches applied to real-world economic and data science problems.
 
 ## Course Overview
 
