@@ -1,4 +1,4 @@
-# KNN Analysis on Iris Dataset
+# KNN Analysis on Iris Dataset Findings
 
 This repository contains the findings and analysis of applying the K-Nearest Neighbors (KNN) algorithm to the Iris dataset.
 
