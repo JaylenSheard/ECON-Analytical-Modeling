@@ -34,7 +34,7 @@ The dataset used for this project includes the following variables:
 
 ## Results
 
-- The **linear regression model** achieved an R-squared of X.XXXX, indicating that it explains XX% of the variance in insurance premiums.
+- The **linear regression model** achieved an R-squared of  0.7475, indicating that it explains 74% of the variance in insurance premiums.
 - The **polynomial regression model** achieved an R-squared of 0.7498, with an Adjusted R-squared of 0.7487.
 - Mean Squared Error (MSE) of the polynomial model: 36,666,102.68.
 - Mean Absolute Error (MAE) of the polynomial model: 4,262.26.
