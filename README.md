@@ -21,14 +21,24 @@ Below is a list of assignments completed during the semester. Each assignment fo
    - **Description:** This assignment involves implementing the K-Nearest Neighbors (KNN) algorithm on the Iris dataset to classify different species of flowers. The notebook includes data preprocessing, model training, cross-validation, and evaluation with a confusion matrix.
    - **Files:** 
      - `KNN_IrisDataset.ipynb`: Jupyter Notebook with the full implementation.
-     - `KNN_Instructions.pdf`: Instructions for the assignment.
+     - `KNN_Instructions_Findings.md`: Instructions for the assignment.
+
+2. **Assignment 2: Support Vector Classifier (SVC) with Customer Churn Dataset**
+   - **Description:** This project aims to predict customer churn using a Support Vector Classifier (SVC) on a customer churn dataset. The firm’s goal is to identify customers who are likely to churn and offer a retention incentive to maximize earnings. By predicting churn effectively, the firm can minimize revenue losses by providing a discount to at-risk customers and retaining them.
+   - **Files:** 
+     - `SVM_CustomerChurn.ipynb`: Jupyter Notebook with the full implementation.
+     - `SVM_Instructions_Findings.md`: Instructions for the assignment.
+
+3. **Assignment 3: Simple and Multiple Linear Regressions with Insurance Dataset**
+   - **Description:** This project analyzes insurance premium data to develop predictive models and provide recommendations on pricing strategies. The key factors in this analysis include smoker status, BMI, region, and other demographic variables. The notebook uses various regression techniques to determine how these factors influence insurance premiums.
+   - **Files:** 
+     - `LRG_InsuranceDataset.ipynb`: Jupyter Notebook with the full implementation.
+     - `LRG_Instructions_Findings.md`: Instructions for the assignment.
 
 ### Upcoming Assignments
 
 The following assignments will be added to this repository as they are completed throughout the semester:
 
-2. **Assignment 2:** Title and details will be added upon completion.
-3. **Assignment 3:** Title and details will be added upon completion.
 4. **Assignment 4:** Title and details will be added upon completion.
 5. **Assignment 5:** Title and details will be added upon completion.
 6. **Assignment 6:** Title and details will be added upon completion.
